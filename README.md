@@ -1,6 +1,6 @@
 # Hypersign Custom Contexts
 
-## Verification Method Types
+## Document Types
 
 | Document Type | Context URL |
 | ---- | ----------- |
