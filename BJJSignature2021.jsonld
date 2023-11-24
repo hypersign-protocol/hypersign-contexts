@@ -17,6 +17,7 @@
         },
         "domain": "https://w3id.org/security#domain",
         "proofValue": "https://w3id.org/security#proofValue",
+        "credentialRoot": "https://w3id.org/security#credentialRoot",
         "nonce": "https://w3id.org/security#nonce",
         "proofPurpose": {
           "@id": "https://w3id.org/security#proofPurpose",
@@ -80,6 +81,7 @@
           }
         },
         "proofValue": "https://w3id.org/security#proofValue",
+        "credentialRoot": "https://w3id.org/security#credentialRoot",
         "verificationMethod": {
           "@id": "https://w3id.org/security#verificationMethod",
           "@type": "@id"
@@ -105,6 +107,5 @@
         }
       }
     }
-   
   }
 }
